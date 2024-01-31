@@ -6,54 +6,57 @@ Welcome to the "owaspllmtop10mapping" repository. This repository provides compr
 
 This repository includes mappings to the following frameworks and standards:
 
-1. **NIST Cybersecurity Framework**
+1. **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**
    - Provides comprehensive guidelines for managing cybersecurity risk.
    - A foundational framework for cybersecurity recognized worldwide.
 
 2. **ISO/IEC Standards**
-   - Including ISO/IEC 27001 (Information Security Management) and ISO/IEC 20547-4:2020 (Big Data Reference Architecture Security and Privacy).
+   - [ISO/IEC 27001](https://www.iso.org/standard/54534.html) (Information Security Management)
+   - [ISO/IEC 20547-4:2020](https://www.iso.org/standard/74438.html) (Big Data Reference Architecture Security and Privacy)
    - Crucial for global business compliance and establishing security controls.
 
-3. **MITRE ATT&CK**
+3. **[MITRE ATT&CK](https://attack.mitre.org/)**
    - A detailed knowledge base for understanding and defending against cyber attacks.
    - Practical for threat modelling and security analysis.
 
-4. **CIS Controls**
+4. **[CIS Controls](https://www.cisecurity.org/controls/)**
    - Developed by the Centre for Internet Security, offering actionable controls.
    - Well-regarded for practicality in strengthening cybersecurity defences.
 
 5. **CVEs and CWEs**
-   - Common Vulnerabilities and Exposures (CVEs) and Common Weakness Enumeration (CWEs) are essential for identifying and cataloging vulnerabilities.
+   - [Common Vulnerabilities and Exposures (CVEs)](https://cve.mitre.org/)
+   - [Common Weakness Enumeration (CWEs)](https://cwe.mitre.org/)
+   - Essential for identifying and cataloging vulnerabilities.
 
-6. **FAIR**
+6. **[FAIR](https://www.fairinstitute.org/what-is-fair)**
    - Factor Analysis of Information Risk focuses on risk quantification and management.
    - Helps organizations quantify cybersecurity risk in financial terms.
 
-7. **STRIDE**
+7. **[STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))**
    - A threat modelling methodology for identifying security threats.
    - Often used in the early stages of software development.
 
-8. **ENISA**
+8. **[ENISA](https://www.enisa.europa.eu/)**
    - The European Union Agency for Network and Information Security provides broad cybersecurity advice.
    - Relevant especially for compliance and best practices in European contexts.
 
-9. **ASVS**
+9. **[ASVS](https://owasp.org/www-project-application-security-verification-standard/)**
    - The Application Security Verification Standard, important for web application security.
    - Provides a basis for testing and assessing web application security controls.
 
-10. **SAMM**
+10. **[SAMM](https://owaspsamm.org/model/)**
     - Software Assurance Maturity Model, useful for integrating security into software development.
     - Helps in benchmarking and improving software security practices.
 
-11. **MITRE ATLAS**
+11. **[MITRE ATLAS](https://atlas.mitre.org/)**
     - Focused on adversarial behaviours and may not cover all aspects of cybersecurity management.
     - Specific and detailed for threat modelling and analysis.
 
-12. **BSIMM**
+12. **[BSIMM](https://www.bsimm.com/)**
     - Building Security In Maturity Model, a tool for measuring and improving software security initiatives.
     - Best suited for software security practices within organizations.
 
-13. **OPENCRE**
+13. **[OPENCRE](https://www.opencre.org/)**
     - A facilitator for understanding and implementing cybersecurity controls across different standards.
     - Acts as a bridge between various frameworks rather than a standalone guide.
 
