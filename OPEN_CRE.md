@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to OPENCRE
 
-This document outlines a mapping of the [OWASP Top 10](https://owasp.org/www-project-top-ten/) vulnerabilities for Large Language Models (LLMs) to cybersecurity practices and controls that are aligned with the [Open Control Requirement Enumeration (OPENCRE)](https://www.opencre.org/). OPENCRE serves as a bridge between various cybersecurity frameworks, enabling the application of a harmonized set of controls to address specific vulnerabilities.
+This document outlines a mapping of the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) to cybersecurity practices and controls that are aligned with the [Open Control Requirement Enumeration (OPENCRE)](https://www.opencre.org/). OPENCRE serves as a bridge between various cybersecurity frameworks, enabling the application of a harmonized set of controls to address specific vulnerabilities.
 
 ## OPENCRE-Aligned Cybersecurity Practices
 
