@@ -1,7 +1,7 @@
 # OWASP Top 10 for LLMs Mapped to Cybersecurity Frameworks and Standards
 
-Welcome to the "owaspllmtop10mapping" repository. This repository provides comprehensive mappings of the OWASP Top 10 vulnerabilities for Large Language Models (LLMs) to a range of established cybersecurity frameworks and standards. Our goal is to offer a resource that helps organizations align their LLM security practices with globally recognized cybersecurity guidelines.
-Our baseline and guide is [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) and its [charter](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Charter) 
+Welcome to the "owaspllmtop10mapping" repository. This repository provides comprehensive mappings of the OWASP Top 10 vulnerabilities for Large Language Models (LLMs) to a range of established cybersecurity frameworks and standards. We aim to offer a resource that helps organizations align their LLM security practices with globally recognized cybersecurity guidelines.
+Our baseline and guide is [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) and it's [charter](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Charter).
 
 ## Mappings Overview
 
