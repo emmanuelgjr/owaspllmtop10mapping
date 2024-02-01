@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to ENISA Recommendations
 
-This document outlines how the [OWASP Top 10 vulnerabilities for Large Language Models (LLMs)](https://owasp.org/www-project-top-ten/) can be addressed using the [European Union Agency for Cybersecurity (ENISA) recommendations](https://www.enisa.europa.eu/). ENISA provides comprehensive guidelines for improving cybersecurity, which can be leveraged to mitigate risks associated with LLM vulnerabilities.
+This document outlines how the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) can be addressed using the [European Union Agency for Cybersecurity (ENISA) recommendations](https://www.enisa.europa.eu/). ENISA provides comprehensive guidelines for improving cybersecurity, which can be leveraged to mitigate risks associated with LLM vulnerabilities.
 
 ## ENISA Cybersecurity Recommendations
 
