@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to the NIST Cybersecurity Framework
 
-This document aligns the [OWASP Top 10 vulnerabilities for Large Language Models (LLMs)](https://owasp.org/www-project-top-ten/) with the [NIST Cybersecurity Framework's five core functions](https://www.nist.gov/cyberframework): Identify, Protect, Detect, Respond, and Recover. It suggests actions and considerations for addressing these vulnerabilities within the framework's structure.
+This document aligns the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) with the [NIST Cybersecurity Framework's five core functions](https://www.nist.gov/cyberframework): Identify, Protect, Detect, Respond, and Recover. It suggests actions and considerations for addressing these vulnerabilities within the framework's structure.
 
 ## LLM01: Prompt Injection
 
