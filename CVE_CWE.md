@@ -1,6 +1,6 @@
 # Mapping OWASP Top 10 for LLMs to CVEs and CWEs
 
-This document maps the [OWASP Top 10 vulnerabilities](https://owasp.org/www-project-top-ten/) for Large Language Models (LLMs) to related Common Vulnerabilities and Exposures ([CVEs](https://cve.mitre.org/)) and Common Weakness Enumeration ([CWEs](https://cwe.mitre.org/)). Given the novel nature of LLMs, direct CVE matches may not exist, but relevant CWEs can provide insights into the types of weaknesses these vulnerabilities may exploit.
+This document maps the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) to related Common Vulnerabilities and Exposures ([CVEs](https://cve.mitre.org/)) and Common Weakness Enumeration ([CWEs](https://cwe.mitre.org/)). Given the novel nature of LLMs, direct CVE matches were not found at this stage, but relevant CWEs can provide insights into the types of weaknesses these vulnerabilities may exploit.
 
 ## LLM01: Prompt Injection
 
