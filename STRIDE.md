@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to STRIDE
 
-This document maps the OWASP Top 10 vulnerabilities for Large Language Models (LLMs) to the STRIDE threat model categories. STRIDE helps in identifying and categorizing common security threats into six types: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privileges.
+This document maps the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) to the [STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service (DoS), Elevation of Privilege)](https://learn.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20)?redirectedfrom=MSDN)  threat model categories. STRIDE helps in identifying and categorizing common security threats into six types: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privileges.
 
 ## LLM01: Prompt Injection
 
