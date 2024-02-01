@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to MITRE ATLAS with Mitigations
 
-This document provides a comprehensive mapping of the [OWASP Top 10](https://owasp.org/www-project-top-ten/) vulnerabilities for Large Language Models (LLMs) to [MITRE's Adversarial Tactics, Techniques, and Common Knowledge (ATLAS)](https://atlas.mitre.org/) framework. It includes a wide range of tactics and techniques for each vulnerability, along with suggested mitigations based on ATLAS and general cybersecurity best practices.
+This document provides a comprehensive mapping of the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) to [MITRE's Adversarial Tactics, Techniques, and Common Knowledge (ATLAS)](https://atlas.mitre.org/) framework. It includes a wide range of tactics and techniques for each vulnerability, along with suggested mitigations based on ATLAS and general cybersecurity best practices.
 
 ## LLM01: Prompt Injection
 
