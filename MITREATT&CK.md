@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to MITRE ATT&CK with Mitigations
 
-This document outlines the potential exploitation of the OWASP Top 10 vulnerabilities for Large Language Models (LLMs) within the context of the [MITRE ATT&CK framework](https://attack.mitre.org/). It identifies relevant tactics and techniques adversaries might use and suggests mitigations to protect against these threats.
+This document outlines the potential exploitation of the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) within the context of the [MITRE ATT&CK framework](https://attack.mitre.org/). It identifies relevant tactics and techniques adversaries might use and suggests mitigations to protect against these threats.
 
 ## MITRE ATT&CK Tactics, Techniques, and Mitigations for LLM Vulnerabilities
 
