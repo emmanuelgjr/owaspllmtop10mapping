@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to FAIR Risk Assessment Framework
 
-This document outlines an approach to evaluate the [OWASP Top 10](https://owasp.org/www-project-top-ten/) vulnerabilities for Large Language Models (LLMs) using the [Factor Analysis of Information Risk (FAIR)](https://www.fairinstitute.org/what-is-fair) framework. The goal is to quantify the risk associated with each vulnerability in terms of its impact on the confidentiality, integrity, and availability of information assets.
+This document outlines an approach to evaluate the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) using the [Factor Analysis of Information Risk (FAIR)](https://www.fairinstitute.org/what-is-fair) framework. The goal is to quantify the risk associated with each vulnerability in terms of its impact on the confidentiality, integrity, and availability of information assets.
 
 ## General Approach to Applying FAIR
 
