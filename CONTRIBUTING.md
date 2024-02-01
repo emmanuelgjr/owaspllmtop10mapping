@@ -46,6 +46,6 @@ We have a [Code of Conduct](CODE_OF_CONDUCT.md) that all contributors are expect
 
 ## Questions?
 
-If you have any questions, please feel free to ask on the GitHub issues or directly on the Slack channel (`#team-llm-mapping`).
+If you have any questions, please feel free to ask on the GitHub issues or directly on the Slack channel (`#team-llm-datagathering-methodology`).
 
 Thank you for contributing to the OWASP Top 10 for LLM Mapping!
