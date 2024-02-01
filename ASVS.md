@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to ASVS
 
-This document outlines how the [OWASP Top 10 vulnerabilities](https://owasp.org/www-project-top-ten/) for Large Language Models (LLMs) can be addressed through the [Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/) by OWASP. While ASVS is tailored towards web applications, its principles can guide the security of web services and applications utilizing LLMs.
+This document outlines how the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) can be addressed through the [Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/) by OWASP. While ASVS is tailored towards web applications, its principles can guide the security of web services and applications utilizing LLMs.
 
 ## ASVS Requirements and LLM Vulnerabilities
 
