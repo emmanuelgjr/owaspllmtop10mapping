@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLMs Mapped to BSIMM Activities
 
-This document outlines how the [OWASP Top 10 vulnerabilities for Large Language Models (LLMs)](https://owasp.org/www-project-top-ten/) can be addressed through the [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/) framework. BSIMM provides a set of software security practices organized into twelve domains, which can help mitigate these vulnerabilities through proactive and systematic security efforts.
+This document outlines how the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) can be addressed through the [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/) framework. BSIMM provides a set of software security practices organized into twelve domains, which can help mitigate these vulnerabilities through proactive and systematic security efforts.
 
 ## General Approach with BSIMM
 
