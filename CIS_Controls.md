@@ -1,6 +1,6 @@
-# OWASP Top 10 for LLMs Mapped to CIS Controls
+# OWASP Top 10 for LLMs Mapped to CIS (Center for Internet Security) Controls
 
-This document maps the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) for Large Language Models (LLMs) to applicable [CIS Controls](https://www.cisecurity.org/controls/), providing guidance on mitigating these vulnerabilities through established cybersecurity best practices.
+This document maps the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#) to applicable [CIS Controls](https://www.cisecurity.org/controls/), providing guidance on mitigating these vulnerabilities through established cybersecurity best practices.
 
 ## LLM01: Prompt Injection
 
