@@ -1,6 +1,6 @@
-# [OWASP Top 10](https://owasp.org/www-project-top-ten/) for LLMs Mapped to [SAMM](https://owaspsamm.org/model/)
+# OWASP Top 10 for LLMs Mapped to SAMM
 
-This document outlines the application of the [Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/model/) to address the [OWASP Top 10 vulnerabilities](https://owasp.org/www-project-top-ten/) for Large Language Models (LLMs). SAMM provides a comprehensive framework for ensuring software security that can be adapted to mitigate risks associated with LLMs.
+This document outlines the application of the [Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/model/) to address the [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/#). SAMM provides a comprehensive framework for ensuring software security that can be adapted to mitigate risks associated with LLMs.
 
 ## SAMM Security Practices and LLM Vulnerabilities
 
