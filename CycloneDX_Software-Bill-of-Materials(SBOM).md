@@ -4,7 +4,7 @@ This document provides a detailed mapping of the OWASP Top 10 vulnerabilities sp
 
 ## Overview
 
-The OWASP Top 10 for LLM Applications identifies the most critical security risks to LLM applications. By mapping these vulnerabilities to the CycloneDX SBOM, organizations can document, understand, and address these risks more effectively. More information about the OWASP Top 10 for LLM Applications can be found [here](https://owasp.org/www-project-top-ten/).
+The OWASP Top 10 for LLM Applications identifies the most critical security risks to LLM applications. By mapping these vulnerabilities to the CycloneDX SBOM, organizations can document, understand, and address these risks more effectively. More information about the OWASP Top 10 for LLM Applications can be found [here](https://owasp.org/www-project-top-10-for-large-language-model-applications/).
 
 ## Vulnerabilities and SBOM Mapping
 
