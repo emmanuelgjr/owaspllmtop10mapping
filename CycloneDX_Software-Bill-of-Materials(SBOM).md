@@ -19,7 +19,7 @@ The OWASP Top 10 for LLM Applications identifies the most critical security risk
 
 - **Description**: The model generates outputs that, if not properly sanitized, could lead to cross-site scripting (XSS), command injection, or other injection attacks when displayed or executed.
 - **SBOM Component**: `Services`, `Data`
-- **Mitigation**: Use output encoding libraries and data sanitization tools. Document these and their configurations in the SBOM, focusing on how they prevent specific attack vectors. OWASP's guide to output encoding can be found [here](https://owasp.org/www-community/controls/Output_Encoding).
+- **Mitigation**: Use output encoding libraries and data sanitization tools. Document these and their configurations in the SBOM, focusing on how they prevent specific attack vectors. OWASP's guide to output encoding can be found [here](https://owasp.org/www-project-proactive-controls/v3/en/c4-encode-escape-data).
 - **Considerations**: Regularly update the documentation as new output handling mechanisms are implemented or as existing ones are updated.
 
 ### LLM03: Training Data Poisoning
@@ -33,7 +33,7 @@ The OWASP Top 10 for LLM Applications identifies the most critical security risk
 
 - **Description**: Overloading the model with a high volume of requests or complex queries, causing performance degradation or service unavailability.
 - **SBOM Component**: `Services`
-- **Mitigation**: Implement rate limiting and load balancing. Document the architecture and tools used to mitigate DoS attacks in the SBOM, including any third-party services or libraries. Information on DoS mitigation strategies can be found [here](https://www.cloudflare.com/learning/ddos/ddos-mitigation-guide/).
+- **Mitigation**: Implement rate limiting and load balancing. Document the architecture and tools used to mitigate DoS attacks in the SBOM, including any third-party services or libraries. Information on DoS mitigation strategies can be found [here](https://www.cloudflare.com/en-ca/resource-hub/five-best-practices-for-mitigating-ddos-attacks/).
 - **Considerations**: Regular testing for vulnerabilities to DoS attacks and updates to mitigation strategies should be documented in version updates within the SBOM.
 
 ### LLM05: Supply-Chain Vulnerabilities
@@ -90,7 +90,7 @@ This document outlines the structure of a Software Bill of Materials (SBOM) for 
 ## Project Overview
 
 - **Name**: Machine Learning Project (Example)
-- **Description**: A project leveraging Large Language Models to perform text analysis, sentiment analysis, and predictive modeling.
+- **Description**: A project leveraging Large Language Models to perform text analysis, sentiment analysis, and predictive modelling.
 - **Version**: 1.0.0
 - **Authors**: [Project Team Members]
 - **License**: [Applicable License]
