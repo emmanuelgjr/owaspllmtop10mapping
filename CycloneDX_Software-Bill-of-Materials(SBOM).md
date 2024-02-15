@@ -1,4 +1,4 @@
-# Detailed OWASP Top 10 Vulnerabilities for LLM Applications - CycloneDX SBOM Mapping
+# OWASP Top 10 for LLM Applications - CycloneDX SBOM Mapping
 
 This document provides a detailed mapping of the OWASP Top 10 vulnerabilities specific to Large Language Model (LLM) applications to the [CycloneDX Machine Learning Software Bill of Materials (SBOM)](https://cyclonedx.org/) structure, with expanded descriptions and mitigation strategies.
 
