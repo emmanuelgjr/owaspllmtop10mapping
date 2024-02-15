@@ -12,7 +12,7 @@ The OWASP Top 10 for LLM Applications identifies the most critical security risk
 
 - **Description**: Attackers manipulate the model's output by crafting malicious inputs, exploiting the model's response generation process.
 - **SBOM Component**: `ExternalDependencies`
-- **Mitigation**: Implement input validation and sanitization libraries. Document these libraries in the SBOM under `ExternalDependencies`, including their version and security features. More details on input validation can be found [here](https://owasp.org/www-community/Input_Validation).
+- **Mitigation**: Implement input validation and sanitization libraries. Document these libraries in the SBOM under `ExternalDependencies`, including their version and security features. More details on input validation can be found [here][(https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/README)].
 - **Considerations**: Evaluate the risk based on the model's exposure to user-generated content and document any additional controls like rate limiting or monitoring for suspicious activity.
 
 ### LLM02: Insecure Output Handling
