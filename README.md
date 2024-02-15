@@ -60,6 +60,10 @@ This repository includes mappings to the following frameworks and standards:
 13. **[OPENCRE](https://www.opencre.org/)**
     - A facilitator for understanding and implementing cybersecurity controls across different standards.
     - Acts as a bridge between various frameworks rather than a standalone guide.
+   
+14. **[CycloneDX Machine Learning Software Bill of Materials (SBOM)](https://cyclonedx.org/)
+    - Standard that provides advanced supply chain capabilities for cyber risk reduction.
+    - Standard capable of representing software, hardware, services, and other types of inventory.
 
 ## Contributing
 
